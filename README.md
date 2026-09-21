@@ -21,9 +21,21 @@
 
 	
 
-	![][image1]
+![][image1]<img width="1600" height="765" alt="CIRCUIT" src="https://github.com/user-attachments/assets/925f6bf4-91a6-4db6-b3ba-c038ec3f5ce3" />
+![result]<img width="1123" height="1600" alt="RESULT" src="https://github.com/user-attachments/assets/ca3c3524-969c-4d3a-9990-dacf91b27c57" />
 
-	Advantage
+
+
+Advantage
+
+1)simple and low cost
+
+2)easy to construct
+
+3)lightweight and portable
+
+4)requires few components
+
 
        
 	
